@@ -1,0 +1,9 @@
+
+server:
+#  compression:
+##    enabled: true
+#    mime-types: application/javascript
+#    min-response-size: 1
+  port: 8088
+#  max-http-header-size: 80KB
+
